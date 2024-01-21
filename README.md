@@ -11,8 +11,7 @@
      * Script 2: Brief description
   4. Usage
   5. Contributing
-  6. Fork the Repo
-  
+    
 ### Installation : 
   * Before running the scripts, ensure you have Python installed on your system. You can install the required dependencies using:
 ```
